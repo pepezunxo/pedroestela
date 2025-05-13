@@ -1,4 +1,4 @@
-# Hey :wave:!
+# Hey :wave: !
 
 I am Pedro Estela, Master's student in Informatics and Computer Engineering and very passionate about software engineering, cybersecurity and fullstack development
 
